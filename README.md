@@ -1,0 +1,1 @@
+lesson_05.mongodb.js - файл с уроком номер 5 по Mongo DB.
